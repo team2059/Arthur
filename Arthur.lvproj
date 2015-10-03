@@ -681,7 +681,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Get 4 Motor Drive Refs.vi" Type="VI" URL="../hhVI/Sensors/Get 4 Motor Drive Refs.vi"/>
-			<Item Name="Limit Switches.vi" Type="VI" URL="../../hhVI/Sensors/Limit Switches.vi"/>
+			<Item Name="Limit Switches.vi" Type="VI" URL="../hhVI/Sensors/Limit Switches.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
