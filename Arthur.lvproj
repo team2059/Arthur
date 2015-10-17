@@ -128,7 +128,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="hhVI.lvlib" Type="Library" URL="../hhVI/hhVI.lvlib"/>
-		<Item Name="Joystick Saftey.vi" Type="VI" URL="../hhVI/Controls/Joystick Saftey.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Scoring.vi" Type="VI" URL="../../../Scoring.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
