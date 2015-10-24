@@ -1,4 +1,3 @@
-# Arthur
+# Dent
 Robot for 2015 FRC Game RECYCLE RUSH.
-Arthur programmed in labVIEW for SCRIW.
-
+Dent programmed in labVIEW for THOR and SCRIW.
